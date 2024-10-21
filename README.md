@@ -1,2 +1,1 @@
-# tasks-
-a task which are done in the intenship
+# tasks-these are tasks which are done in the intenship
